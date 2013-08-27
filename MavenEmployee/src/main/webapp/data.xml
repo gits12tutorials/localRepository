@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee-list><employee>
+<name>Abha</name>
+<address>abc</address>
+<phoneno>9213</phoneno>
+<employeeid>1</employeeid>
+</employee>
+<employee>
+<name>Aditya</name>
+<address>def</address>
+<phoneno>1234</phoneno>
+<employeeid>2</employeeid>
+</employee>
+</employee-list>
